@@ -22,3 +22,4 @@ const Mystring& Mystring::operator+=(const Mystring&p1)
 
 //简单的修改
 //heheehhehee
+//分支1
