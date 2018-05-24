@@ -20,4 +20,4 @@ const Mystring& Mystring::operator+=(const Mystring&p1)
     return *this;
 }
 
-
+//简单的修改
